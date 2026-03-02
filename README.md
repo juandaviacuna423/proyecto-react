@@ -8,22 +8,24 @@ Proyecto desarrollado en React + Vite como parte del aprendizaje de componentes 
 - React Router DOM
 
 ## 📁 Estructura del proyecto
+```
 src/
 ├── components/
 │   ├── layout/
-│   │   └── Navbar.jsx        # Barra de navegación
+│   │   └── Navbar.jsx
 │   ├── sections/
-│   │   └── Hero.jsx          # Sección principal
+│   │   └── Hero.jsx
 │   └── ui/
-│       └── WhatsAppButton.jsx # Botón flotante WhatsApp
+│       └── WhatsAppButton.jsx
 ├── CardPrefiles/
-│   └── Prefiles.jsx          # Card de perfil
+│   └── Prefiles.jsx
 ├── screens/
-│   ├── Home.jsx              # Página de inicio
-│   ├── Products.jsx          # Página de productos
-│   ├── Contact.jsx           # Página de contacto
-│   └── PrefilesCard.jsx      # Página de perfiles
-└── App.jsx                   # Componente principal
+│   ├── Home.jsx
+│   ├── Products.jsx
+│   ├── Contact.jsx
+│   └── PrefilesCard.jsx
+└── App.jsx
+```
 
 ## 📄 Páginas disponibles
 | Ruta | Descripción |
